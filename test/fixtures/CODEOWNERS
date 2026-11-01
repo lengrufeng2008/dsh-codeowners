@@ -1,0 +1,4 @@
+# default
+* @default
+/docs/ @docs-team
+*.js @frontend
